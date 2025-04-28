@@ -1,4 +1,4 @@
-[# Ex04 Places Around Me
+# Ex04 Places Around Me
 ## AIM
 To develop a website to display details about the places around my house.
 
@@ -170,12 +170,13 @@ society.html
 
 
 ## OUTPUT
-![output](./screenshots/put1.png)
+![Screenshot 2025-04-28 204232](https://github.com/user-attachments/assets/58fa141c-a39e-40d7-9010-a782b0ed9a59)
 
-![output](./screenshots/put2.png)
+![Screenshot 2025-04-28 204259](https://github.com/user-attachments/assets/a05d9c49-893d-45b9-a73c-ace63d1157ef)
 
-![output](./screenshots/put3.png)
+![Screenshot 2025-04-28 205154](https://github.com/user-attachments/assets/eb7e944e-6662-4c01-b78d-35e17c86574f)
 
-![output](./screenshots/put4.png)
+![Screenshot 2025-04-28 205228](https://github.com/user-attachments/assets/d6fc23b6-f623-4cb1-b9f3-839f631a6934)
 
-![output](./screenshots/put5.png)
+## RESULT
+The program for implementing image maps using HTML is executed successfully.
